@@ -12,7 +12,7 @@ public class CalendarDemo {
         System.out.println(cal.toString());
         //获取日期
         System.out.println(cal.get(Calendar.YEAR));
-        cal.get(Calendar.MONTH);
+        System.out.println(cal.get(Calendar.MONTH));
         //设置参数
         cal.set(Calendar.YEAR,1990);
         cal.set(Calendar.MONTH,3);
