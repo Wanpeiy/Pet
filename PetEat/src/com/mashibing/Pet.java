@@ -24,4 +24,7 @@ public class Pet {
         this.name = name;
         this.age = age;
     }
+
+    public Pet() {
+    }
 }
