@@ -1,11 +1,10 @@
 package com.mashibing;
 
 import java.sql.Date;
-<<<<<<< HEAD
-=======
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
->>>>>>> 2515d02c968eceebb60226c55f7cfc1f4c95f6a8
+
 import java.util.Calendar;
 import java.util.Scanner;
 
